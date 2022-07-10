@@ -1,4 +1,4 @@
-Tissue,Celltype,k_hat_young,int_dim_young,v_k_young,v_d1_young,v_d2_young,k_hat_old,int_dim_old,v_k_old,v_d1_old,v_d2_old,,,which,is_significant
+Tissue,Celltype,k_hat_young,int_dim_young,v_X_young,v_eps_linear_young,v_eps_non_linear_young,k_hat_old,int_dim_old,v_X_old,v_eps_linear_old,v_eps_non_linear_old,,,which,is_significant
 Thymus,thymocyte,15.66666667,4,51351.45644,2.240768267,246.1307153,28.66666667,5,53128.08587,1.6579079,136.1778579,,,,0
 Thymus,immature T cell,7.666666667,2,4325.093808,0.5494172,182.9266203,11.66666667,2,4453.979367,0.486346017,111.6030415,,,old,1
 Thymus,DN4 thymocyte,11,4,15421.88278,1.629844133,218.3126041,25.33333333,4,16898.80093,0.865492383,162.9898681,,,,0
